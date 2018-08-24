@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello Goodbye</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="exclaim_btn">Exclamation</string>
+
+    <!-- strings used for output -->
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye!</string>
+
+    <!-- description of the image of the girl -->
+    <string name="exclaim_img">Exclamation image</string>
+</resources>
