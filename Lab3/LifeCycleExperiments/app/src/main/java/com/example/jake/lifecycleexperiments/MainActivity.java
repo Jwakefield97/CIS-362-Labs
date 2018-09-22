@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     //added this method to make my life easier
     private void showToast(String msg){
         Toast.makeText(this,msg,Toast.LENGTH_LONG).show();
-        Log.d("msg: ", msg);
+        Log.d("msg", msg);
     }
 
     @Override
