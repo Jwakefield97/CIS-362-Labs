@@ -1,4 +1,4 @@
-package com.example.jake.shades;
+package com.example.jake.shades2;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
