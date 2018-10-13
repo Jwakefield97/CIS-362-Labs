@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UnitConversionCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="feet">Feet</string>
+    <string name="meters">Meters</string>
+    <string name="inches">Inches</string>
+    <string name="centimeters">Centimeters</string>
+    <string name="pounds">Pounds</string>
+    <string name="grams">Grams</string>
+
+    <!-- Actionbar icon strings -->
+    <string name="ui_menu_feet_meters">Feet to Meters</string>
+    <string name="ui_menu_inches_cent">Inches to Centimeters</string>
+    <string name="ui_menu_pounds_grams">Pounds to Grams</string>
+    <string name="ui_menu_quit">Quit</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuitem_feet_meters"
+        android:title="@string/ui_menu_feet_meters"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_inches_cent"
+        android:title="@string/ui_menu_inches_cent"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_pounds_grams"
+        android:title="@string/ui_menu_pounds_grams"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuitem_quit"
+        android:title="@string/ui_menu_quit"
+        app:showAsAction="never" />
+</menu>
