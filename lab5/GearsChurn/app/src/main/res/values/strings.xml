@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GearsChurn</string>
+
+    <string name="gear_large">Large gear</string>
+    <string name="gear_small">Small gear</string>
+    <string name="rotate_btn">Rotate Gears</string>
+</resources>
