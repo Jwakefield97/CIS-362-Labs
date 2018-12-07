@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">escapethecatcher</string>
+
+    <string name="win">Wins:</string>
+    <string name="losses">Losses:</string>
+    <string name="obstacle">Obstacle</string>
+    <string name="player">Butterfly Prey</string>
+    <string name="enemy">Butterfly Catcher</string>
+    <string name="exit">Exit</string>
+
+</resources>
