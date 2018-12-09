@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoamingBall</string>
+
+    <string name="ball_item">Ball Item</string>
+    <string name="x_axis">x-axis :</string>
+    <string name="y_axis">y-axis :</string>
+    <string name="z_axis">z-axis :</string>
+    <string name="zero">0</string>
+
+
+
+</resources>
